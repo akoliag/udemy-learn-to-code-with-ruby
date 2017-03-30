@@ -16,4 +16,4 @@ p two_items
 p two_items.class
 #the pop method always returns an array when it's called with an argument
 two_items = arr.pop
-p two_items #when called without an argument we get a number 
+p two_items #when called without an argument we get a number

@@ -29,7 +29,7 @@ students = [["Boris", 25, true],
             ["Ingrid", 31]] # example of nested array
             #it may be written within one line or break into 2 lines
             #for better visibility; no need to put the same amount
-            #of object in every array, we may put as weel
+            #of object in every array, we may put as well
             #e.g. ["Ingrid", 23] and it will be fine
 print students
 puts #empty breakline for better visiblity
