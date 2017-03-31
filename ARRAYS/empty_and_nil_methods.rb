@@ -2,7 +2,7 @@ p [1, 2 ,3].empty? #returns true if the array is empty
 p [].empty?
 p [].length == 0
 p [false, false, false].empty?
-p [nil, nil].empty? #returns true as the array is not empty
+p [nil, nil].empty? #returns false as the array is not empty
 #there's a nil value in here
 
 #nil? method is available on every Ruby object but returns true
