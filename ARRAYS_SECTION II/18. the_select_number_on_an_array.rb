@@ -15,7 +15,6 @@ words = ["level", "selfless", "racecar", "dinosaur"]
 palindormes = words.select {|word| word == word.reverse}
 p palindormes
 
-palabras = %w[aga, kayak, radar, box, chair]
+palabras = %w[aga kayak radar box chair]
 palabras_1 = palabras.select {|palabra| palabra == palabra.reverse}
 p palabras_1
-# returns the empty array when I use %w to define strings?
