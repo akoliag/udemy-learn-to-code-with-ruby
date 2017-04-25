@@ -1,0 +1,7 @@
+I'm writing this from Ruby.
+No line break with this method .Pretty cool!
+I'm writing this from Ruby.
+No line break with this method.Pretty cool!
+I'm writing this from Ruby.
+No line break with this method.Pretty cool!
+Let's append sth to the exisiting content...
