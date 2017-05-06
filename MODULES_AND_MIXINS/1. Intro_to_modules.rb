@@ -25,7 +25,7 @@ module LengthConversions # in here it is a toolbox of 3 methods
 WEBSITE = "https://www.angelo.edu/dept/agriculture/faculty/scott_conversions.php"
 
 def self.miles_to_feet(miles) # we want to call this method on self
-# This self keyword defines this method on the module such that we can says
+# This self keyword defines this method on the module such that we can say
 # LengthConversions.miles_to_feet and have access to this module later in the
 # program. Using self keyword is the same as writing LengthConversions.miles_to_feet
 # but the reason we don't do it is that e.g. if the name of the module changes later
